@@ -21,7 +21,7 @@ Below is a screenshot of and link to deployed site
 
 https://github.com/WarfaHa/Portfolio
 
-![screenshot-of-employee-tracker](./assets/)
+![screenshot-of-portfolio](./assets/)
 
 ## Usage
 
