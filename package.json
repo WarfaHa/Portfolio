@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "As a student, I wanted to build a professional portfolio to showcase my skills and talents to employers. This portfolio includes all the deployed web applications I have created throughout my career. I plan on showcasing my skills learned to hopefully land an interview.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarfaHa/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "Warfa Hassan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WarfaHa/Portfolio/issues"
+  },
+  "homepage": "https://github.com/WarfaHa/Portfolio#readme"
+}
