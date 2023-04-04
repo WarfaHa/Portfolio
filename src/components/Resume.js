@@ -1,10 +1,10 @@
 //Todo
 import React from 'react';
-import './App.css';
+import '../App.css';
 
 function Resume() {
     return(
-<div></div>
+<div> Resume </div>
 );
 }
 
