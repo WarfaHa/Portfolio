@@ -1,35 +1,45 @@
 //Todo
-import React from 'react';
-import '../App.css';
+import React from "react";
+import "../App.css";
 
 function Portfolio() {
-    return(
-<div><section id="work" class="card">
-          <img src={require ('../assets/images/Weather.jpg')} alt="camera" />
-          <footer>Weather Forecast</footer>
-        </section>
-        <section class="card">
-          <img src={require ('../assets/images/Calculator.jpg')} alt="tablet" />
-          <footer>Calculator</footer>
-        </section>
-        <section class="card">
-          <img src={require ('../assets/images/Notes.jpg')}  alt="toilet paper" />
-          <footer>Sticky Notes</footer>
-        </section>
-        <section class="card">
-          <img src={require ('../assets/images/Wedding.jpg')}alt="wooden spoons" />
-          <footer>Save The Date: Wedding Invitations</footer>
-        </section>
-        <section class="card">
-          <img src={require ('../assets/images/Restaurant.jpg')} alt="soap" />
-          <footer>Gourmet Food Catering </footer>
-        </section>
-        <section class="card">
-          <img src={require ('../assets/images/Fitness.jpg')} alt="spinning top" />
-          <footer>Fitness Tracker</footer>
-        </section></div>
-);
+  return (
+    <div>
+      <section class="card">
+        <img
+          src={require("../assets/projects/Weather.JPG")}
+          alt="spinning top"
+        />
+        <footer>Weather Forecast</footer>
+      </section>
+      <section class="card">
+        <img src={require("../assets/projects/Virtuoso.JPG")} alt="soap" />
+        <footer>Virtuoso</footer>
+      </section>
+      <section class="card">
+        <img
+          src={require("../assets/projects/NoteTaker.JPG")}
+          alt="toilet paper"
+        />
+        <footer>Note Taker</footer>
+      </section>
+      <section class="card">
+        <img
+          src={require("../assets/projects/TextEditor.JPG")}
+          alt="wooden spoons"
+        />
+        <footer>Text Editor</footer>
+      </section>
+      <section id="portfolio" class="card">
+        <img src={require("../assets/projects/Ecommerce.JPG")} alt="camera" />
+        <footer>E-commerce-Back-End</footer>
+      </section>
+      <section class="card">
+        <img src={require("../assets/projects/Employee.JPG")} alt="tablet" />
+        <footer>Employee Tracker</footer>
+      </section>
+    </div>
+  );
 }
-
 
 export default Portfolio;

@@ -4,7 +4,21 @@ import '../App.css';
 
 function Contact() {
     return(
-<div> Contact Me </div>
+<div id="contact"> 
+<h1>Contact Me: </h1>
+      <form>
+        <label>
+          Name: <input type="text" />
+        </label><br></br>
+        <label>
+          Email Address: <input type="email" />
+        </label><br></br>
+        <label>
+          Message: <input type="textarea" />
+        </label><br></br>
+        <button> Submit </button>
+      </form>
+    </div>
 );
 }
 

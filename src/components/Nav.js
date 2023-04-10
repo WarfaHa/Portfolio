@@ -5,13 +5,21 @@ import '../App.css';
 function Nav() {
     return(
 <div class="main-header">
-    <h2>Contact Me:</h2>
+    <h2>Welcome to my Portfolio!</h2>
   <nav>
     <ul>
-      <li> <a href="#">614-598-2238</a></li>
-      <li> <a href="https://gmail.com/">Warfa60@gmail.com</a></li>
-      <li> <a href="https://github.com/">Github</a></li>
-      <li> <a href="https://www.linkedin.com/">Resume</a></li>
+    <li>
+                  <a href="#about">About</a>
+              </li>
+              <li>
+                  <a href="#portfolio">Portfolio</a>
+              </li>
+              <li>
+                  <a href="#contact">Contact</a>
+              </li>
+              <li>
+                <a href="#resume">Resume</a>
+            </li>
     </ul>
   </nav>
   </div>

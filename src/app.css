@@ -24,7 +24,7 @@ main {
   justify-content: space-between;
   padding: 60px;
   /* Added background image for texture */
-  background-image:url(./assets/images/wood-blue.jpg);
+  background-image:url(./assets/wood-blue.jpg);
   color: Black;
 }
 /* I labeled it 'nav'
