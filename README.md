@@ -19,9 +19,9 @@ As a student, I wanted to build a professional portfolio to showcase my skills a
 
 Below is a screenshot of and link to deployed site
 
-https://github.com/WarfaHa/Portfolio
+https://warfaha.github.io/portfolio/
 
-![screenshot-of-portfolio](./assets/)
+![screenshot-of-portfolio](./src/assets/Screenshot-of-Portfolio.png)
 
 ## Usage
 
