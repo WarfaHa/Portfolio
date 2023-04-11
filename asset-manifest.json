@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2e17ea93.css",
-    "main.js": "/portfolio/static/js/main.a86a8dd0.js",
+    "main.js": "/portfolio/static/js/main.c2a358ff.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/wood-blue.jpg": "/portfolio/static/media/wood-blue.a1dfc5c60e8e6233c1a4.jpg",
     "static/media/Resume-Warfa-Hassan.pdf": "/portfolio/static/media/Resume-Warfa-Hassan.54c0c97edd64889d1f63.pdf",
@@ -13,11 +13,11 @@
     "static/media/NoteTaker.JPG": "/portfolio/static/media/NoteTaker.e20e288f842482336874.JPG",
     "index.html": "/portfolio/index.html",
     "main.2e17ea93.css.map": "/portfolio/static/css/main.2e17ea93.css.map",
-    "main.a86a8dd0.js.map": "/portfolio/static/js/main.a86a8dd0.js.map",
+    "main.c2a358ff.js.map": "/portfolio/static/js/main.c2a358ff.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e17ea93.css",
-    "static/js/main.a86a8dd0.js"
+    "static/js/main.c2a358ff.js"
   ]
 }
