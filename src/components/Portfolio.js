@@ -4,40 +4,52 @@ import "../App.css";
 
 function Portfolio() {
   return (
-    <div>
+    <div> <a href="https://github.com/WarfaHa/Reporting-the-Weather">
       <section class="card">
         <img
           src={require("../assets/projects/Weather.JPG")}
-          alt="spinning top"
+          alt="Weather App"
         />
         <footer>Weather Forecast</footer>
       </section>
+      </a>
+      <a href="https://github.com/RetroTechCode/virtuoso">
       <section class="card">
-        <img src={require("../assets/projects/Virtuoso.JPG")} alt="soap" />
+        <img src={require("../assets/projects/Virtuoso.JPG")} alt="Music App" />
         <footer>Virtuoso</footer>
       </section>
+      </a>
+      <a href="https://github.com/WarfaHa/Note-Taker-App">
       <section class="card">
         <img
           src={require("../assets/projects/NoteTaker.JPG")}
-          alt="toilet paper"
+          alt="Sticky Note"
         />
         <footer>Note Taker</footer>
       </section>
+      </a>
+      <a href="https://github.com/WarfaHa/Text-Editor">
       <section class="card">
         <img
           src={require("../assets/projects/TextEditor.JPG")}
-          alt="wooden spoons"
+          alt="text editor"
         />
         <footer>Text Editor</footer>
       </section>
+      </a>
+      <a href="https://github.com/WarfaHa/ORM-E-commerce-Back-End">
       <section id="portfolio" class="card">
-        <img src={require("../assets/projects/Ecommerce.JPG")} alt="camera" />
+        <img src={require("../assets/projects/Ecommerce.JPG")} alt="ecommerce" />
         <footer>E-commerce-Back-End</footer>
       </section>
+      </a>
+      <a href="https://github.com/WarfaHa/Employee-Tracker">
       <section class="card">
-        <img src={require("../assets/projects/Employee.JPG")} alt="tablet" />
+        <img src={require("../assets/projects/Employee.JPG")} alt="employee tracker" />
         <footer>Employee Tracker</footer>
       </section>
+      </a>
+      
     </div>
   );
 }
