@@ -4,13 +4,13 @@ import "../App.css";
 
 function Portfolio() {
   return (
-    <div> <a href="https://github.com/WarfaHa/Reporting-the-Weather">
+    <div> <a href="https://github.com/lutz143/steam-up">
       <section class="card">
         <img
-          src={require("../assets/projects/Weather.JPG")}
-          alt="Weather App"
+          src={require("../assets/projects/STEAMUPHOME.png")}
+          alt="Steam Up"
         />
-        <footer>Weather Forecast</footer>
+        <footer>Steam Up</footer>
       </section>
       </a>
       <a href="https://github.com/RetroTechCode/virtuoso">
