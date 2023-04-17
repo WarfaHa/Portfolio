@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2e17ea93.css",
-    "main.js": "/portfolio/static/js/main.c2a358ff.js",
+    "main.js": "/portfolio/static/js/main.c5757163.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/STEAMUPHOME.png": "/portfolio/static/media/STEAMUPHOME.a8fd8fc8ffd882826bb5.png",
     "static/media/wood-blue.jpg": "/portfolio/static/media/wood-blue.a1dfc5c60e8e6233c1a4.jpg",
     "static/media/Resume-Warfa-Hassan.pdf": "/portfolio/static/media/Resume-Warfa-Hassan.54c0c97edd64889d1f63.pdf",
     "static/media/Virtuoso.JPG": "/portfolio/static/media/Virtuoso.a256a4132681bfac6ead.JPG",
-    "static/media/Weather.JPG": "/portfolio/static/media/Weather.3492f38916673860a4f5.JPG",
     "static/media/Ecommerce.JPG": "/portfolio/static/media/Ecommerce.d2d14b15df7f6f23cdff.JPG",
     "static/media/Employee.JPG": "/portfolio/static/media/Employee.4e681f1a6776e891152b.JPG",
     "static/media/TextEditor.JPG": "/portfolio/static/media/TextEditor.ff099032d906275b07f5.JPG",
     "static/media/NoteTaker.JPG": "/portfolio/static/media/NoteTaker.e20e288f842482336874.JPG",
     "index.html": "/portfolio/index.html",
     "main.2e17ea93.css.map": "/portfolio/static/css/main.2e17ea93.css.map",
-    "main.c2a358ff.js.map": "/portfolio/static/js/main.c2a358ff.js.map",
+    "main.c5757163.js.map": "/portfolio/static/js/main.c5757163.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e17ea93.css",
-    "static/js/main.c2a358ff.js"
+    "static/js/main.c5757163.js"
   ]
 }
